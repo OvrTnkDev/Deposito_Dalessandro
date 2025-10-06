@@ -1,0 +1,14 @@
+C:\Users\dales\Desktop\Gelateria DolceGelo\bin\Debug\net9.0\Gelateria DolceGelo.exe
+C:\Users\dales\Desktop\Gelateria DolceGelo\bin\Debug\net9.0\Gelateria DolceGelo.deps.json
+C:\Users\dales\Desktop\Gelateria DolceGelo\bin\Debug\net9.0\Gelateria DolceGelo.runtimeconfig.json
+C:\Users\dales\Desktop\Gelateria DolceGelo\bin\Debug\net9.0\Gelateria DolceGelo.dll
+C:\Users\dales\Desktop\Gelateria DolceGelo\bin\Debug\net9.0\Gelateria DolceGelo.pdb
+C:\Users\dales\Desktop\Gelateria DolceGelo\obj\Debug\net9.0\Gelateria DolceGelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Gelateria DolceGelo\obj\Debug\net9.0\Gelateria DolceGelo.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Gelateria DolceGelo\obj\Debug\net9.0\Gelateria DolceGelo.AssemblyInfo.cs
+C:\Users\dales\Desktop\Gelateria DolceGelo\obj\Debug\net9.0\Gelateria DolceGelo.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Gelateria DolceGelo\obj\Debug\net9.0\Gelateria DolceGelo.dll
+C:\Users\dales\Desktop\Gelateria DolceGelo\obj\Debug\net9.0\refint\Gelateria DolceGelo.dll
+C:\Users\dales\Desktop\Gelateria DolceGelo\obj\Debug\net9.0\Gelateria DolceGelo.pdb
+C:\Users\dales\Desktop\Gelateria DolceGelo\obj\Debug\net9.0\Gelateria DolceGelo.genruntimeconfig.cache
+C:\Users\dales\Desktop\Gelateria DolceGelo\obj\Debug\net9.0\ref\Gelateria DolceGelo.dll
