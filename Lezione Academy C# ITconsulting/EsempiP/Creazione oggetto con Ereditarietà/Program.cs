@@ -9,6 +9,11 @@ public class Animale
     {
         Console.WriteLine($"L'animale fa un verso.");
     }
+
+        public virtual void Mangia()
+    {
+        Console.WriteLine($"L'animale mangia.");
+    }
 }
 
 //Classe derivata, viene usato :
@@ -24,6 +29,12 @@ public class Cane : Animale
         base.FaiVerso();
         Console.WriteLine($"Il cane abbaia.");
     }
+
+    public override void Mangia()
+    {
+        base.Mangia();
+        Console.WriteLine($"Il cane mangia.");
+    }
 }
 
 public class Program
@@ -37,5 +48,6 @@ public class Program
         mioCane.FaiVerso();
         mioCane.Scodinzola();
         mioCane.FaiVersoC();
+        mioCane.Mangia();
     }
 }
