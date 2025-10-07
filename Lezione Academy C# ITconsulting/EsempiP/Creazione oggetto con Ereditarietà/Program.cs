@@ -10,9 +10,14 @@ public class Animale
         Console.WriteLine($"L'animale fa un verso.");
     }
 
-        public virtual void Mangia()
+    public virtual void Mangia()
     {
         Console.WriteLine($"L'animale mangia.");
+    }
+    
+    public void Dorme()
+    {
+        Console.WriteLine($"L'animale dorme.");
     }
 }
 
@@ -35,6 +40,12 @@ public class Cane : Animale
         base.Mangia();
         Console.WriteLine($"Il cane mangia.");
     }
+
+    public new void Dorme()
+    {
+        base.Dorme();
+        Console.WriteLine($"Il cane dorme.");
+    }
 }
 
 public class Program
@@ -49,5 +60,6 @@ public class Program
         mioCane.Scodinzola();
         mioCane.FaiVersoC();
         mioCane.Mangia();
+        mioCane.Dorme();
     }
 }
