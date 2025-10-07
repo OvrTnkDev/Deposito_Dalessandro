@@ -5,6 +5,7 @@
 //Classe padre
 public class Animale
 {
+    protected int Eta;
     public void FaiVerso()
     {
         Console.WriteLine($"L'animale fa un verso.");
@@ -14,10 +15,15 @@ public class Animale
     {
         Console.WriteLine($"L'animale mangia.");
     }
-    
+
     public void Dorme()
     {
         Console.WriteLine($"L'animale dorme.");
+    }
+
+    public void ImpostaEta(int nuovaEta)
+    {
+        Eta = nuovaEta;
     }
 }
 
@@ -46,6 +52,7 @@ public class Cane : Animale
         base.Dorme();
         Console.WriteLine($"Il cane dorme.");
     }
+
 }
 
 public class Program
@@ -61,5 +68,6 @@ public class Program
         mioCane.FaiVersoC();
         mioCane.Mangia();
         mioCane.Dorme();
+         mioCane.ImpostaEta(3);
     }
 }
