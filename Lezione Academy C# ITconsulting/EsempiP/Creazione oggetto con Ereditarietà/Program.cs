@@ -17,7 +17,12 @@ public class Cane : Animale
     public void Scodinzola()
     {
         Console.WriteLine($"Il cane scodinzola.");
+    }
 
+    public void FaiVersoC()
+    {
+        base.FaiVerso();
+        Console.WriteLine($"Il cane abbaia.");
     }
 }
 
@@ -31,5 +36,6 @@ public class Program
         //Assegnazione dei valori alle proprietà
         mioCane.FaiVerso();
         mioCane.Scodinzola();
+        mioCane.FaiVersoC();
     }
 }
