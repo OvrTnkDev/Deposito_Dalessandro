@@ -1,0 +1,150 @@
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\bin\Debug\net9.0\Esempi.exe
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\bin\Debug\net9.0\Esempi.deps.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\bin\Debug\net9.0\Esempi.runtimeconfig.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\bin\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\bin\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\obj\Debug\net9.0\Esempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\obj\Debug\net9.0\Esempi.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\obj\Debug\net9.0\Esempi.AssemblyInfo.cs
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\obj\Debug\net9.0\Esempi.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\obj\Debug\net9.0\Esempi.sourcelink.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\obj\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\obj\Debug\net9.0\refint\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\obj\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\obj\Debug\net9.0\Esempi.genruntimeconfig.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Esempi\obj\Debug\net9.0\ref\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\bin\Debug\net9.0\Esempi.exe
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\bin\Debug\net9.0\Esempi.deps.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\bin\Debug\net9.0\Esempi.runtimeconfig.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\bin\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\bin\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\obj\Debug\net9.0\Esempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\obj\Debug\net9.0\Esempi.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\obj\Debug\net9.0\Esempi.AssemblyInfo.cs
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\obj\Debug\net9.0\Esempi.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\obj\Debug\net9.0\Esempi.sourcelink.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\obj\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\obj\Debug\net9.0\refint\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\obj\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\obj\Debug\net9.0\Esempi.genruntimeconfig.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Cane ToString\obj\Debug\net9.0\ref\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\bin\Debug\net9.0\Esempi.exe
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\bin\Debug\net9.0\Esempi.deps.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\bin\Debug\net9.0\Esempi.runtimeconfig.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\bin\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\bin\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\obj\Debug\net9.0\Esempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\obj\Debug\net9.0\Esempi.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\obj\Debug\net9.0\Esempi.AssemblyInfo.cs
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\obj\Debug\net9.0\Esempi.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\obj\Debug\net9.0\Esempi.sourcelink.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\obj\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\obj\Debug\net9.0\refint\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\obj\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\obj\Debug\net9.0\Esempi.genruntimeconfig.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Punto\obj\Debug\net9.0\ref\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\bin\Debug\net9.0\Esempi.exe
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\bin\Debug\net9.0\Esempi.deps.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\bin\Debug\net9.0\Esempi.runtimeconfig.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\bin\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\bin\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.AssemblyInfo.cs
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.sourcelink.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\refint\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.genruntimeconfig.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Esempi\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\ref\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\bin\Debug\net9.0\Esempi.exe
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\bin\Debug\net9.0\Esempi.deps.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\bin\Debug\net9.0\Esempi.runtimeconfig.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\bin\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\bin\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.AssemblyInfo.cs
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.sourcelink.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\refint\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\Esempi.genruntimeconfig.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Prodotto HashCode\obj\Debug\net9.0\ref\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\bin\Debug\net9.0\Esempi.exe
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\bin\Debug\net9.0\Esempi.deps.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\bin\Debug\net9.0\Esempi.runtimeconfig.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\bin\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\bin\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\obj\Debug\net9.0\Esempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\obj\Debug\net9.0\Esempi.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\obj\Debug\net9.0\Esempi.AssemblyInfo.cs
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\obj\Debug\net9.0\Esempi.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\obj\Debug\net9.0\Esempi.sourcelink.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\obj\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\obj\Debug\net9.0\refint\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\obj\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\obj\Debug\net9.0\Esempi.genruntimeconfig.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Mattina\Creazione oggetto Videoteca\obj\Debug\net9.0\ref\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\bin\Debug\net9.0\Esempi.exe
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\bin\Debug\net9.0\Esempi.deps.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\bin\Debug\net9.0\Esempi.runtimeconfig.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\bin\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\bin\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\obj\Debug\net9.0\Esempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\obj\Debug\net9.0\Esempi.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\obj\Debug\net9.0\Esempi.AssemblyInfo.cs
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\obj\Debug\net9.0\Esempi.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\obj\Debug\net9.0\Esempi.sourcelink.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\obj\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\obj\Debug\net9.0\refint\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\obj\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\obj\Debug\net9.0\Esempi.genruntimeconfig.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 07-10-25 Pomeriggio\Creazione oggetto Veicoli con Ereditarietà\obj\Debug\net9.0\ref\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\bin\Debug\net9.0\Esempi.exe
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\bin\Debug\net9.0\Esempi.deps.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\bin\Debug\net9.0\Esempi.runtimeconfig.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\bin\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\bin\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\obj\Debug\net9.0\Esempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\obj\Debug\net9.0\Esempi.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\obj\Debug\net9.0\Esempi.AssemblyInfo.cs
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\obj\Debug\net9.0\Esempi.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\obj\Debug\net9.0\Esempi.sourcelink.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\obj\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\obj\Debug\net9.0\refint\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\obj\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\obj\Debug\net9.0\Esempi.genruntimeconfig.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Volo Aereo con Ereditarietà\obj\Debug\net9.0\ref\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\bin\Debug\net9.0\Esempi.exe
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\bin\Debug\net9.0\Esempi.deps.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\bin\Debug\net9.0\Esempi.runtimeconfig.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\bin\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\bin\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\obj\Debug\net9.0\Esempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\obj\Debug\net9.0\Esempi.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\obj\Debug\net9.0\Esempi.AssemblyInfo.cs
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\obj\Debug\net9.0\Esempi.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\obj\Debug\net9.0\Esempi.sourcelink.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\obj\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\obj\Debug\net9.0\refint\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\obj\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\obj\Debug\net9.0\Esempi.genruntimeconfig.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Mattina\Creazione oggetto Prenotazione Viaggio con Incapsulamento\obj\Debug\net9.0\ref\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\bin\Debug\net9.0\Esempi.exe
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\bin\Debug\net9.0\Esempi.deps.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\bin\Debug\net9.0\Esempi.runtimeconfig.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\bin\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\bin\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\obj\Debug\net9.0\Esempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\obj\Debug\net9.0\Esempi.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\obj\Debug\net9.0\Esempi.AssemblyInfo.cs
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\obj\Debug\net9.0\Esempi.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\obj\Debug\net9.0\Esempi.sourcelink.json
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\obj\Debug\net9.0\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\obj\Debug\net9.0\refint\Esempi.dll
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\obj\Debug\net9.0\Esempi.pdb
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\obj\Debug\net9.0\Esempi.genruntimeconfig.cache
+C:\Users\dales\Desktop\Lezione Academy C# ITconsulting\Corso C# 08-10-25 Pomeriggio\Creazione oggetto Soldato con Incapsulamento\obj\Debug\net9.0\ref\Esempi.dll
