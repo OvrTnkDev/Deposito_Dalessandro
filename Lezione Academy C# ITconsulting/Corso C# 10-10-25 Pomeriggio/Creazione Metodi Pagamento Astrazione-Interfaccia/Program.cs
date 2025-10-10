@@ -6,16 +6,17 @@ class Program
 {
     static void Main()
     {
-        // Lista polimorfica: contiene Operatore, OperatoreSicurezza, ecc.
-        List<DispositivoElettronico> dispositivi = new List<DispositivoElettronico>();
+        // Lista polimorfica
+        List<IPagamento> dispositivi = new List<IPagamento>();
         bool continua = true;
 
         while (continua)
         {
             Console.Clear();
-            Console.WriteLine("=== GESTIONE DISPOSITIVI ===");
-            Console.WriteLine("1. Aggiungi un nuovo Computer");
-            Console.WriteLine("2. Aggiungi una nuova Stampante");
+            Console.WriteLine("=== GESTIONE PAGAMENTO ===");
+            Console.WriteLine("1. Paga con carta");
+            Console.WriteLine("2. Paga in contanti");
+            Console.WriteLine("2. Paga con PayPal");
             Console.WriteLine("3. Mostra Computer");
             Console.WriteLine("4. Mostra Stampanti");
             Console.WriteLine("0. Esci");
@@ -27,34 +28,36 @@ class Program
             {
                 // -----------------------------
                 case "1":
-                    Console.Write("Modello: ");
-                    string modello = Console.ReadLine();
+                    Console.Write("Esegui pagamento: ");
+                    decimal p = decimal.Parse(Console.ReadLine());
                     dispositivi.Add(new Computer(modello));
                     break;
 
                 case "2":
-                    Console.Write("Modello: ");
-                    modello = Console.ReadLine();
+                    Console.Write("Esegui pagamento: ");
+                    p = decimal.Parse(Console.ReadLine());
                     dispositivi.Add(new Stampante(modello));
                     break;
 
                 case "3":
-                    Console.WriteLine("\n=== COMPUTER ===");
-                    foreach (var d in dispositivi)
-                    {
-                        if (d is Computer)
-                            Esegui(d);
-                    }
-                    break;
+                    Console.Write("Esegui pagamento: ");
+                    p = decimal.Parse(Console.ReadLine());
 
-                case "4":
-                    Console.WriteLine("\n=== STAMPANTI ===");
-                    foreach (var d in dispositivi)
-                    {
-                        if (d is Stampante)
-                            Esegui(d);
-                    }
-                    break;
+                //     foreach (var d in dispositivi)
+                //     {
+                //         if (d is Computer)
+                //             Esegui(d);
+                //     }
+                //     break;
+
+                // case "4":
+                //     Console.WriteLine("\n=== STAMPANTI ===");
+                //     foreach (var d in dispositivi)
+                //     {
+                //         if (d is Stampante)
+                //             Esegui(d);
+                //     }
+                //     break;
 
 
                 // -----------------------------
