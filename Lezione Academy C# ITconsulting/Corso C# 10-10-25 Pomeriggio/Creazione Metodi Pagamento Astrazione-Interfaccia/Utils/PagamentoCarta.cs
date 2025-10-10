@@ -2,29 +2,23 @@ using System;
 
 namespace Utils
 {
-    // Interfaccia
-    public class  PagamentoCarta : IPagamento
+    public class PagamentoCarta : MetodoPagamento
     {
-        private string _circuito;
-        protected string Circuito
+        protected string Circuito { get; }
+
+        public PagamentoCarta(decimal importo, string circuito) : base(importo)
         {
-            get => _circuito;
-            set
-            {
-                if (!string.IsNullOrEmpty(value) && (value.ToLower="visa" || value.ToLower="mastercard"))
-                    _circuito = value;
-                else
-                    Console.WriteLine("Il campo è vuoto oppure il circuito è errato!");
-            }
+            if (!string.IsNullOrEmpty(circuito) &&
+                (circuito.ToLower() == "visa" || circuito.ToLower() == "mastercard"))
+                Circuito = circuito;
+            else
+                throw new ArgumentException("Circuito non valido (usa visa o mastercard).");
         }
 
+        public override void EseguiPagamento() =>
+            Console.WriteLine($"Pagamento di {Importo:C} con carta {Circuito}");
 
-        public PagamentoCarta(decimal importo, string circuito) :base(importo)
-        {
-            Circuito = circuito;
-        }
-
-        public override void EseguiPagamento()=> Console.WriteLine($"Pagamento di {Importo}£ con carta (circuito: {Circuito})");
-        public override void MostraMetodo() => Console.WriteLine($"Metodo di pagamento: Carta di credito");
+        public override void MostraMetodo() =>
+            Console.WriteLine("Metodo di pagamento: Carta di credito");
     }
 }

@@ -2,29 +2,22 @@ using System;
 
 namespace Utils
 {
-    // Interfaccia
-    public class  PagamentoPayPal : IPagamento
+    public class PagamentoPayPal : MetodoPagamento
     {
-        private string _emailUtente;
-        protected string EmailUtente
+        protected string EmailUtente { get; }
+
+        public PagamentoPayPal(decimal importo, string emailUtente) : base(importo)
         {
-            get => _emailUtente;
-            set
-            {
-                if (!string.IsNullOrEmpty(value) && value.Contains('@'))
-                    _emailUtente = value;
-                else
-                    Console.WriteLine("Il campo è vuoto oppure hai dimenticato la @!");
-            }
+            if (!string.IsNullOrEmpty(emailUtente) && emailUtente.Contains('@'))
+                EmailUtente = emailUtente;
+            else
+                throw new ArgumentException("Email non valida o mancante '@'.");
         }
 
+        public override void EseguiPagamento() =>
+            Console.WriteLine($"Pagamento di {Importo:C} tramite PayPal ({EmailUtente})");
 
-        public PagamentoPayPal(decimal importo, string emailUtente) :base(importo)
-        {
-            EmailUtente = emailUtente;
-        }
-
-        public override void EseguiPagamento()=> Console.WriteLine($"Pagamento di {Importo}£ con PayPal da: {EmailUtente}");
-        public override void MostraMetodo() => Console.WriteLine($"Metodo di pagamento: PayPal");
+        public override void MostraMetodo() =>
+            Console.WriteLine("Metodo di pagamento: PayPal");
     }
 }

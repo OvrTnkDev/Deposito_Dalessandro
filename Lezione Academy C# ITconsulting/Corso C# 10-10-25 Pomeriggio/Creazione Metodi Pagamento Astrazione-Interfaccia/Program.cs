@@ -7,7 +7,7 @@ class Program
     static void Main()
     {
         // Lista polimorfica
-        List<IPagamento> dispositivi = new List<IPagamento>();
+        List<IPagamento> pagamento = new List<IPagamento>();
         bool continua = true;
 
         while (continua)
@@ -16,9 +16,7 @@ class Program
             Console.WriteLine("=== GESTIONE PAGAMENTO ===");
             Console.WriteLine("1. Paga con carta");
             Console.WriteLine("2. Paga in contanti");
-            Console.WriteLine("2. Paga con PayPal");
-            Console.WriteLine("3. Mostra Computer");
-            Console.WriteLine("4. Mostra Stampanti");
+            Console.WriteLine("3. Paga con PayPal");
             Console.WriteLine("0. Esci");
             Console.Write("\nScelta: ");
 
@@ -28,37 +26,30 @@ class Program
             {
                 // -----------------------------
                 case "1":
-                    Console.Write("Esegui pagamento: ");
+                    Console.Write("Inserisci importo > 0: ");
                     decimal p = decimal.Parse(Console.ReadLine());
-                    dispositivi.Add(new Computer(modello));
+                    Console.Write("Inserisci il circuito (visa, mastercard): ");
+                    string m = Console.ReadLine();
+                    pagamento.Add(new PagamentoCarta(p, m));
+                    
+                    Esegui(pagamento[^1]);
                     break;
 
                 case "2":
-                    Console.Write("Esegui pagamento: ");
+                    Console.Write("Inserisci importo > 0: ");
                     p = decimal.Parse(Console.ReadLine());
-                    dispositivi.Add(new Stampante(modello));
+                    pagamento.Add(new PagamentoContanti(p));
+
+                    Esegui(pagamento[^1]);
                     break;
 
                 case "3":
-                    Console.Write("Esegui pagamento: ");
+                    Console.Write("Inserisci importo > 0: ");
                     p = decimal.Parse(Console.ReadLine());
+                    pagamento.Add(new PagamentoPayPal(p));
 
-                //     foreach (var d in dispositivi)
-                //     {
-                //         if (d is Computer)
-                //             Esegui(d);
-                //     }
-                //     break;
-
-                // case "4":
-                //     Console.WriteLine("\n=== STAMPANTI ===");
-                //     foreach (var d in dispositivi)
-                //     {
-                //         if (d is Stampante)
-                //             Esegui(d);
-                //     }
-                //     break;
-
+                    Esegui(pagamento[^1]);
+                    break;
 
                 // -----------------------------
                 case "0":
@@ -79,9 +70,9 @@ class Program
 
     // Metodo polimorfico: accetta la classe base
     //  e chiama dinamicamente il metodo override corretto.
-    public static void Esegui(DispositivoElettronico x)
+    public static void Esegui(IPagamento x)
     {
-        x.Avvia();
-        x.Spegni();
+        x.EseguiPagamento();
+        x.MostraMetodo();
     }
 }
