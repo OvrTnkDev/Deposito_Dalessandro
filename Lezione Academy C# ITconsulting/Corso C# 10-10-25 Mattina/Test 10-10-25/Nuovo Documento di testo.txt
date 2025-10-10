@@ -1,0 +1,74 @@
+6. L'incapsulamento, è uno dei principi FONDAMENTALI dell'OOP, permette  di incapsulare (per l'appunto come dice la parola stessa) delle proprietà al fine di proteggerle e controllarle all'interno degli oggetti.
+Quindi quando ad esempio una proprietà viene identificata Private
+es: [private string _seil43; protected string Password{ set { if (!value="") {_seil43=value;}}}]
+è visibile solo all'interno della classe e non oltre.
+A differenza del protected che può essere richiamata anche e solo dalla classe figlio.
+Il public invece può essere richiamata anche al di fuori di questa "cassaforte".
+
+7. L'ereditarietà invece, il secondo dei principi FONDAMENTALI dell'OOP, permette di ereditare (come dice la parola stessa(sono parlanti le nomenclature dei principi)) da una superclasse o classe padre, tutte le proprietà, ammenoché non siano private, e quindi di sfruttarle al meglio nelle classi figlio.
+
+NOTA IMPORTANTE: la classe padre può avere tanti figli, ma le classi figlio POSSONO avere un solo padre.
+
+esempio:
+classe padre ->
+
+public class Auto
+{
+    protected string Motore;
+
+    public Auto(string motore) 
+    {
+       Motore = motore;
+    }
+    public virtual void CheckMotore()
+    {
+        Console.WriteLine($"Il motore è di tipo: {Motore}.");
+    }
+}
+
+Classe figlio ->
+
+public class Componenti : Auto
+{
+    public string Trazione;
+    public Componenti(string motore, string trazione) : base (motore)
+    {
+        Trazione = trazione;
+    }
+    public ovverraid void CheckMotore()
+    {
+        base.CheckMotore();
+        Console.WriteLine($"La sua trazione è {Trazione}");
+    }
+}
+
+8. Il polimorfismo invece, il terzo, ma non per importanza, dei principi FONDAMENTALI dell'OOP.
+Può cambiare forma o il comportamento, e serve a rendere il codice più flessibile.
+Esistono 2 tipi di Polimorfismo:
+1. Attivo
+2. Passivo
+
+Per il polimorfismo attivo possiamo fare l'esempio dell'overload, perchè viene fatto dallo sviluppatore e quindi è in compile-time.
+Invece per quello passivo possiamo fare l'esempio dell'override perchè viene fatto dalla macchina e quindi è in run-time.
+
+Esistono anche degli operatori per eseguire la verifica sugli oggetti che sono is e as.
+Is verifica il tipo reale dell'oggetto, mentre as cerca di fare una conversione sicura.
+
+
+Auto a = new Componenti();
+if (a is Componenti)
+{
+((Componenti)a).CheckMotore();
+}
+
+9. La DevOps è il ponte che congiunge la parte di sviluppo con quella operativa, e serve ad accelerare il ciclo di vita del software.
+Quindi lo possiamo vedere come un approccio organizzativo più che altro.
+
+Le fasi principali sono la scrittura del codice quindi il coding,
+poi ovviamente il building e dopo di queste c'è la fase di test.
+Se queste 3 fasi vanno a buon fine c'è la release.
+Che poi dara vita alla fase di monitoraggio e dei feedback(che sono essenziali per eventuali accorgimenti o bug non risultati nella fase di testing.
+
+11. https://github.com/OvrTnkDev/Deposito_Dalessandro.git
+
+13. https://imgflip.com/i/a8on7k
