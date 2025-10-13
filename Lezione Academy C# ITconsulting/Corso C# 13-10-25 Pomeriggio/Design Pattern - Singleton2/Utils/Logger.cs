@@ -1,4 +1,5 @@
 using System;
+using System.ComponentModel;
 using System.ComponentModel.Design;
 
 namespace Utils
@@ -20,7 +21,6 @@ namespace Utils
                 return _instance;
             }
         }
-
         public string Log(string messaggio)
         {
             string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");

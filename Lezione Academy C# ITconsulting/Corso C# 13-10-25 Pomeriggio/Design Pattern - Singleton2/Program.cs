@@ -15,6 +15,7 @@ class Program
         var canile1 = Canile.Instance;
         var canile2 = Canile.Instance;
 
+
         Console.WriteLine($"0- Esci");
         Console.WriteLine($"1- Logger");
         Console.WriteLine($"2- Canile");
@@ -47,6 +48,8 @@ class Program
                 {
                     Console.WriteLine(msg);
                 }
+                Console.WriteLine($"HashCode 1: {logger1.GetHashCode()} || HashCode 2: {logger2.GetHashCode()}");
+                
                 break;
 
             case 2:
@@ -72,6 +75,7 @@ class Program
                 {
                     Console.WriteLine(msg);
                 }
+                Console.WriteLine($"HashCode 1:{canile1.GetHashCode()} || HashCode 2: {canile2.GetHashCode()}");
                 break;
 
             default:
