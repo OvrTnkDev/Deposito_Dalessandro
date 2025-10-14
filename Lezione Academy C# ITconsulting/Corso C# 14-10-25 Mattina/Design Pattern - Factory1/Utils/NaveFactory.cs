@@ -6,21 +6,15 @@ using System.Threading.Tasks;
 
 namespace Utils
 {
-    public abstract class VeicoloFactory
+    public abstract class NaveFactory
     {
         // Crea Veicolo: restituisce un IVeicolo
         public static IVeicolo CreaVeicolo(string v)
         {
             switch (v.ToLower())
             {
-                case "auto":
-                    return new Auto();
-                case "moto":
-                    return new Moto();
-                case "camion":
-                    return new Camion();
                 case "nave":
-                    return NaveFactory.CreaVeicolo(v);
+                    return new Nave();
                 default:
                     return null;
             }

@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string [] args)
     {
-        Console.WriteLine("Quale veicolo vuoi creare? (auto/moto/camion)");
+        Console.WriteLine("Quale veicolo vuoi creare? (auto/moto/camion/nave)");
         string v = Console.ReadLine();
 
         IVeicolo veicolo = VeicoloFactory.CreaVeicolo(v);
