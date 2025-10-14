@@ -13,6 +13,7 @@ class Program
         if (v != null)
         {
             shape.Draw();
+            Console.WriteLine($"Tipo: {shape.GetType()}");
         }
         else
         {
