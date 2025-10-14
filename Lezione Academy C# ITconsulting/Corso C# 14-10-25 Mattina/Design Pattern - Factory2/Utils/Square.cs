@@ -8,6 +8,10 @@ namespace Utils
     //Moto implementa Ishape
     public class Square : ConcreteShapeCreator, IShape
     {
+        public override IShape CreateShape()
+        {
+            return new Square();
+        }
         public void Draw() => Console.WriteLine($"Sei su Square, hai creato un quadrato.");
     }
 }
