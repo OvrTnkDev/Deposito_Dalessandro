@@ -97,7 +97,7 @@ class Program
     }
     #endregion
 
-    #region MENU
+#region MENU
     static void Menu(Calcolatrice calcolatrice)
     {
         Console.WriteLine($"-- Calcolatrice strategica --");
