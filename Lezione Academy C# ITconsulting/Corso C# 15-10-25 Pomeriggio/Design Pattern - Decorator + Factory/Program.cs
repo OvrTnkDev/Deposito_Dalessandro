@@ -100,6 +100,7 @@ class Program
 {
     static void Main()
     {
+        Console.Clear();
         bool continua = true;
 
         while (continua)
