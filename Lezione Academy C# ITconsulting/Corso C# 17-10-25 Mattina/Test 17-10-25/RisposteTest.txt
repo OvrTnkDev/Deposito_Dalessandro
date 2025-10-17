@@ -1,0 +1,16 @@
+8. Il disaccoppiamento aiuta a rendere il software flessibile e manutenibile, perché per l'appunto le modifiche apportate ad un modulo hanno un impatto minimo sugli altri.
+Un esempio pratico può essere la gestione dei pagamenti, perché creando un interfaccia possiamo poi passare le implementazioni allla classe desiderata (es: paypal, carta di credito).
+
+Per estensibilità possiamo fare l'esempio del Factory Method che delega la responsabilità alle sottoclassi per la creazione, quindi in questo modo rende il software più estendibile. Quindi permette di aggiungere senza rompere.
+
+13. I design pattern non sono snippet di codice ma logiche applicative e concettuali, che in base al contesto e alle specifiche, danno l'opportunità di applicarli.
+
+Vengono usati per evitare ridondamento di codice, perche sono flessibili e soprattutto perche riducono l'accoppiamento e favoriscono l'estendibilità.
+
+16. Gli strutturali servono per estendere un software senza cambiarne il funzionamento, e quindi compongono strutture piu grandi definendo classi e oggetti.
+i creazionali permettono la dinamicità, quindi quando servono nuovi oggetti. Quindi separa la logica degli oggetti dal resto del codice, come ad esmpio il singleton.
+i comportamentali invece, gestiscono le logiche e le interazioni e il flusso di dati tra gli oggetti.
+
+17. le interfacce e le classi astratte.
+Come risposto nella domanda 14 l'interfaccia non permette di avere dei metodi concreti ma solo di dichiararli, quindi si definisce un contratto.
+Invece come risposto alla domanda 15 le classi astratte permettono di avere dei metodi di default, ma non permettono il multi inserimento nelle classi reali, e permette l'ereditarietà singola.
