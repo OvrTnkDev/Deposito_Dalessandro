@@ -1,0 +1,15 @@
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/bin/Debug/net9.0/AppDizionario
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/bin/Debug/net9.0/AppDizionario.deps.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/bin/Debug/net9.0/AppDizionario.runtimeconfig.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/bin/Debug/net9.0/AppDizionario.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/bin/Debug/net9.0/AppDizionario.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/obj/Debug/net9.0/AppDizionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/obj/Debug/net9.0/AppDizionario.AssemblyInfoInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/obj/Debug/net9.0/AppDizionario.AssemblyInfo.cs
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/obj/Debug/net9.0/AppDizionario.csproj.CoreCompileInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/obj/Debug/net9.0/AppDizionario.sourcelink.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/obj/Debug/net9.0/AppDizionario.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/obj/Debug/net9.0/refint/AppDizionario.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/obj/Debug/net9.0/AppDizionario.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/obj/Debug/net9.0/AppDizionario.genruntimeconfig.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 17-10-25 Pomeriggio/Design pattern e dizionari/AppDizionario/obj/Debug/net9.0/ref/AppDizionario.dll

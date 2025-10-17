@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDizionario", "AppDizionario\AppDizionario.csproj", "{605CE8FD-A13C-1607-BBA3-B2653C31ED04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605CE8FD-A13C-1607-BBA3-B2653C31ED04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605CE8FD-A13C-1607-BBA3-B2653C31ED04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605CE8FD-A13C-1607-BBA3-B2653C31ED04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605CE8FD-A13C-1607-BBA3-B2653C31ED04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD234B8-8051-4159-9D6C-02D4F6FBC8BD}
+	EndGlobalSection
+EndGlobal
