@@ -227,7 +227,8 @@ class Program
                     var conto = factory.NuovoConto(tipoConto);
                     conto.IdCliente = idCliente;
                     ctx.conto[conto.IdConto] = conto;
-                    Console.WriteLine($"Conto creato con successo. ID cliente: {conto.IdCliente}, Tipo: {conto.Tipo}");
+                    //Console.WriteLine($"Conto creato con successo. ID cliente: {conto.IdCliente}, Tipo: {conto.Tipo}");
+                    ctx.Notify($"Nuovo conto creato. ID cliente: {conto.IdCliente}, Tipo: {conto.Tipo}");
                 }
             }
         }
