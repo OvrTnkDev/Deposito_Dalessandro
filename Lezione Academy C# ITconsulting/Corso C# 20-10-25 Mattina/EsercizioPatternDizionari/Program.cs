@@ -39,7 +39,7 @@ sealed class BankContext : ISubject
 #region FACTORY METHOD ABSTRACT
 public abstract class ContoFactory
 {
-    public abstract Conto NuovoConto(int idCliente);
+    public abstract Conto NuovoConto(int tipoConto, int idCliente);
 }
 
 public abstract class Conto
@@ -112,7 +112,8 @@ public interface ISubject
 {
     void Subscribe(IObserver observer);
     void Unsubscribe(IObserver observer);
-    void Notify(string message);
+    void Notify(string message) => Console.WriteLine($"[Notifica]: {message}");
+    
 }
 
 public class LoggerObserver : IObserver
@@ -129,14 +130,14 @@ public class LoggerObserver : IObserver
 #region FACTORY METHOD CONCRETE
 public class ContoCorrenteFactory : ContoFactory
 {
-    public override Conto NuovoConto(int idCliente)
+    public override Conto NuovoConto(int tipoConto, int idCliente)
     {
-        Conto conto = idCliente switch
+        Conto conto = tipoConto switch
         {
             1 => new ContoBase(BankContext.Instance.conto.Count + 1, idCliente),
             2 => new ContoPremium(BankContext.Instance.conto.Count + 1, idCliente),
             3 => new ContoStudent(BankContext.Instance.conto.Count + 1, idCliente),
-            _ => throw new ArgumentException("Tipo di cliente non valido"),
+            _ => throw new ArgumentException("Tipo di conto non valido"),
         };
 
         return conto;
@@ -212,8 +213,8 @@ class Program
 
                 Console.WriteLine($"---- Scelta tipo conto ----");
                 Console.WriteLine($"1. Crea nuovo conto Base");
-                Console.WriteLine($"1. Crea nuovo conto Premium");
-                Console.WriteLine($"1. Crea nuovo conto Studente");
+                Console.WriteLine($"2. Crea nuovo conto Premium");
+                Console.WriteLine($"3. Crea nuovo conto Studente");
                 Console.WriteLine($"0. Esci");
                 int tipoConto = int.Parse(Console.ReadLine() ?? "0");
                 if (tipoConto == 0) break;
@@ -224,7 +225,7 @@ class Program
                 }
                 else
                 {
-                    var conto = factory.NuovoConto(tipoConto);
+                    var conto = factory.NuovoConto(tipoConto, idCliente);
                     conto.IdCliente = idCliente;
                     ctx.conto[conto.IdConto] = conto;
                     //Console.WriteLine($"Conto creato con successo. ID cliente: {conto.IdCliente}, Tipo: {conto.Tipo}");
