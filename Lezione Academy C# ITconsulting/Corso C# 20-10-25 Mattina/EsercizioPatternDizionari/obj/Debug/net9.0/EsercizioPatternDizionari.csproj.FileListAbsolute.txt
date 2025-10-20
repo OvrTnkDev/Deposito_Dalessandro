@@ -1,5 +1,15 @@
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/bin/Debug/net9.0/EsercizioPatternDizionari
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/bin/Debug/net9.0/EsercizioPatternDizionari.deps.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/bin/Debug/net9.0/EsercizioPatternDizionari.runtimeconfig.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/bin/Debug/net9.0/EsercizioPatternDizionari.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/bin/Debug/net9.0/EsercizioPatternDizionari.pdb
 /home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/obj/Debug/net9.0/EsercizioPatternDizionari.GeneratedMSBuildEditorConfig.editorconfig
 /home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/obj/Debug/net9.0/EsercizioPatternDizionari.AssemblyInfoInputs.cache
 /home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/obj/Debug/net9.0/EsercizioPatternDizionari.AssemblyInfo.cs
 /home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/obj/Debug/net9.0/EsercizioPatternDizionari.csproj.CoreCompileInputs.cache
 /home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/obj/Debug/net9.0/EsercizioPatternDizionari.sourcelink.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/obj/Debug/net9.0/EsercizioPatternDizionari.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/obj/Debug/net9.0/refint/EsercizioPatternDizionari.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/obj/Debug/net9.0/EsercizioPatternDizionari.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/obj/Debug/net9.0/EsercizioPatternDizionari.genruntimeconfig.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Mattina/EsercizioPatternDizionari/obj/Debug/net9.0/ref/EsercizioPatternDizionari.dll
