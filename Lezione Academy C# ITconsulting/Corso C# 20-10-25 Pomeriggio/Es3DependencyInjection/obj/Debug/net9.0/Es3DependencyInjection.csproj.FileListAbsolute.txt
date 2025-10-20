@@ -1,0 +1,15 @@
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/bin/Debug/net9.0/Es3DependencyInjection
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/bin/Debug/net9.0/Es3DependencyInjection.deps.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/bin/Debug/net9.0/Es3DependencyInjection.runtimeconfig.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/bin/Debug/net9.0/Es3DependencyInjection.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/bin/Debug/net9.0/Es3DependencyInjection.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/obj/Debug/net9.0/Es3DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/obj/Debug/net9.0/Es3DependencyInjection.AssemblyInfoInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/obj/Debug/net9.0/Es3DependencyInjection.AssemblyInfo.cs
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/obj/Debug/net9.0/Es3DependencyInjection.csproj.CoreCompileInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/obj/Debug/net9.0/Es3DependencyInjection.sourcelink.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/obj/Debug/net9.0/Es3DependencyInjection.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/obj/Debug/net9.0/refint/Es3DependencyInjection.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/obj/Debug/net9.0/Es3DependencyInjection.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/obj/Debug/net9.0/Es3DependencyInjection.genruntimeconfig.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 20-10-25 Pomeriggio/Es3DependencyInjection/obj/Debug/net9.0/ref/Es3DependencyInjection.dll
