@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Es2DependencyInjection/1.0.0": {
+        "runtime": {
+          "Es2DependencyInjection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Es2DependencyInjection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
