@@ -1,0 +1,15 @@
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/bin/Debug/net9.0/EnumEsercizio1
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/bin/Debug/net9.0/EnumEsercizio1.deps.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/bin/Debug/net9.0/EnumEsercizio1.runtimeconfig.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/bin/Debug/net9.0/EnumEsercizio1.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/bin/Debug/net9.0/EnumEsercizio1.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/obj/Debug/net9.0/EnumEsercizio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/obj/Debug/net9.0/EnumEsercizio1.AssemblyInfoInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/obj/Debug/net9.0/EnumEsercizio1.AssemblyInfo.cs
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/obj/Debug/net9.0/EnumEsercizio1.csproj.CoreCompileInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/obj/Debug/net9.0/EnumEsercizio1.sourcelink.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/obj/Debug/net9.0/EnumEsercizio1.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/obj/Debug/net9.0/refint/EnumEsercizio1.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/obj/Debug/net9.0/EnumEsercizio1.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/obj/Debug/net9.0/EnumEsercizio1.genruntimeconfig.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/EnumEsercizio1/obj/Debug/net9.0/ref/EnumEsercizio1.dll
