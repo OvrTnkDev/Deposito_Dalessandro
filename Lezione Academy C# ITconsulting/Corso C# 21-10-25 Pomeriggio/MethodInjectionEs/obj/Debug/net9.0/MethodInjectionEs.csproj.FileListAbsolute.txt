@@ -1,0 +1,15 @@
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/bin/Debug/net9.0/MethodInjectionEs
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/bin/Debug/net9.0/MethodInjectionEs.deps.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/bin/Debug/net9.0/MethodInjectionEs.runtimeconfig.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/bin/Debug/net9.0/MethodInjectionEs.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/bin/Debug/net9.0/MethodInjectionEs.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/obj/Debug/net9.0/MethodInjectionEs.GeneratedMSBuildEditorConfig.editorconfig
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/obj/Debug/net9.0/MethodInjectionEs.AssemblyInfoInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/obj/Debug/net9.0/MethodInjectionEs.AssemblyInfo.cs
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/obj/Debug/net9.0/MethodInjectionEs.csproj.CoreCompileInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/obj/Debug/net9.0/MethodInjectionEs.sourcelink.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/obj/Debug/net9.0/MethodInjectionEs.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/obj/Debug/net9.0/refint/MethodInjectionEs.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/obj/Debug/net9.0/MethodInjectionEs.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/obj/Debug/net9.0/MethodInjectionEs.genruntimeconfig.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Pomeriggio/MethodInjectionEs/obj/Debug/net9.0/ref/MethodInjectionEs.dll
