@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodInjectionEsercizio1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c1045f883afab59702d762e9859c5e16d740274")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32b3f5ea8281f652dce9ce5adbdd0c131f951295")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodInjectionEsercizio1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodInjectionEsercizio1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

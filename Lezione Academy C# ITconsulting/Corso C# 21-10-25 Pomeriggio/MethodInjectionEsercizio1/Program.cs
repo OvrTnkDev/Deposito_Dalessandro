@@ -41,7 +41,9 @@ public class Program
 {
     public static void Main(string[] args)
     {
+        //Istanza concreta di SmsNotifier
         INotifier notifier = new SmsNotifier();
+        
         ILogger logger = new Logger();
 
         var service = new AlertService(logger);
