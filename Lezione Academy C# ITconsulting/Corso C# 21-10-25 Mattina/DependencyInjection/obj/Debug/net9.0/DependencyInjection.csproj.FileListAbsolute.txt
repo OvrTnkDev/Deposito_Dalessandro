@@ -1,0 +1,15 @@
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/obj/Debug/net9.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/obj/Debug/net9.0/DependencyInjection.AssemblyInfoInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/obj/Debug/net9.0/DependencyInjection.AssemblyInfo.cs
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/obj/Debug/net9.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/obj/Debug/net9.0/DependencyInjection.sourcelink.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/bin/Debug/net9.0/DependencyInjection
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/bin/Debug/net9.0/DependencyInjection.deps.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/bin/Debug/net9.0/DependencyInjection.runtimeconfig.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/bin/Debug/net9.0/DependencyInjection.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/bin/Debug/net9.0/DependencyInjection.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/obj/Debug/net9.0/DependencyInjection.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/obj/Debug/net9.0/refint/DependencyInjection.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/obj/Debug/net9.0/DependencyInjection.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/obj/Debug/net9.0/DependencyInjection.genruntimeconfig.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 21-10-25 Mattina/DependencyInjection/obj/Debug/net9.0/ref/DependencyInjection.dll
