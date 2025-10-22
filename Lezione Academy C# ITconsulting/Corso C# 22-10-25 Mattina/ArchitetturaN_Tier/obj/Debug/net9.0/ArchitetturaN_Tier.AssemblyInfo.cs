@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArchitetturaN_Tier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f005b01d4bc77b5958d682ec8877004b8a3476")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd9d7d4e663e0f3dc932bb438e6f4fdee541129e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArchitetturaN_Tier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArchitetturaN_Tier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

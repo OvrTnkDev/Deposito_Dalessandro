@@ -4,6 +4,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using Domain;
 using Infrastructure;
+using Application;
 
-namespace Application
-{}
+namespace Presentation
+{
+    public class Presentation
+    {
+        
+    }
+}
