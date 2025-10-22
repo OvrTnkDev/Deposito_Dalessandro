@@ -17,15 +17,14 @@ namespace Domain
     public record Product(string Code, string Name, decimal Price);
     public class Customer
     {
-        public int Id { get; }
+        public Guid Id { get; } = Guid.NewGuid();
         public string Name { get; }
         public string Email { get; }
 
-        public Customer(int id, string name, string email)
+        public Customer(string name, string email)
         {
-            Id = id;
-            Name = name;
-            Email = email;
+            Name = name ?? throw new ArgumentNullException(nameof(name));
+            Email = email ?? throw new ArgumentNullException(nameof(email));
         }
     }
     public class Order
@@ -71,20 +70,6 @@ namespace Domain
         }
     }
     public record Money(decimal Amount, string Currency = "EUR");
-
-    // Servizio singleton che gestisce tutti gli ordini
-    public sealed class OrderManager
-    {
-        private static readonly Lazy<OrderManager> _lazy = new Lazy<OrderManager>(() => new OrderManager());
-        public static OrderManager Instance => _lazy.Value;
-
-        private readonly List<Order> _orders = new();
-
-        private OrderManager() { }
-
-        public void AddOrder(Order order) => _orders.Add(order);
-        public IEnumerable<Order> GetAllOrders() => _orders;
-    }
     #endregion
 
         #region INTERFACCE

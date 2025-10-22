@@ -34,13 +34,13 @@ namespace Infrastructure
         }
         public Product? GetByCode(string code) => _products.TryGetValue(code, out var p) ? p : null;
     }
-        public class LogNotify : INotifyServ, IClock
-        {
-            //DI - Dipendency Injection di Customer
-            private readonly Customer _c;
-            public void Notify() => Console.WriteLine($"Hai un avviso sulla tua casella postale: {_c.Email}");
-            public void Time() => Console.WriteLine($"Inviato alle ore: {DateTime.Now.Hour}");
-        }
+    public class LogNotify : INotifyServ, IClock
+    {
+        //DI - Dipendency Injection di Customer
+        private readonly Customer _c;
+        public void Notify() => Console.WriteLine($"Hai un avviso sulla tua casella postale: {_c.Email}");
+        public void Time() => Console.WriteLine($"Inviato alle ore: {DateTime.Now.Hour}");
+    }
+#endregion
     }
 
-    #endregion
