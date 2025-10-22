@@ -11,15 +11,19 @@ namespace Domain
     public interface IProductRepo
     { }
     public interface INotifyServ
-    { }
+    {
+        void Notify(string message);
+    }
     public interface IClock
-    { }
+    {
+        void Time();
+    }
 
     #endregion
 
     #region ENUM
     // tipo speciale in C# che consente di definire un gruppo di valori costanti,leggibili e organizzati.
-    public enum OrderStatus { Product, Customer, Order, OrderItem, Money }
+    public enum OrderStatus { New, Paid, Shipped, Cancelled}
     #endregion
 
     #region CLASSI (ENTITA')
@@ -45,7 +49,7 @@ namespace Domain
 
         public Customer Customer { get; }
         public List<OrderItem> Items { get; } = new();
-        public OrderStatus Status { get; private set; }
+        public OrderStatus Status { get; private set; } = OrderStatus.New;
 
         public Order(Customer customer)
         {
