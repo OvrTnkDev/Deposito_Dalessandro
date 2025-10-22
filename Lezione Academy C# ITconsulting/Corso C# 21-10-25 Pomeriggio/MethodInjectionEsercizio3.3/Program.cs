@@ -78,9 +78,10 @@ class Program
             {
                 case 0:
                     return;
-                    
+
                 case 1:
                     var smsNotify = NotifierFactory.CreaNotifica(TipoNotifica.Sms);
+                    Console.WriteLine($"Hai scelto: {smsNotify.ToString()}");
                     smsNotify.Notify($"Benvenuto Fabio, il sistema è attivo!");
                     smsNotify.Log();
                     Console.ReadKey();
@@ -88,6 +89,7 @@ class Program
 
                 case 2:
                     var emailNotify = NotifierFactory.CreaNotifica(TipoNotifica.Email);
+                    Console.WriteLine($"Hai scelto: {emailNotify.ToString()}");
                     emailNotify.Notify($"Benvenuto Fabio, il sistema è attivo!");
                     emailNotify.Log();
                     Console.ReadKey();
@@ -95,6 +97,7 @@ class Program
 
                 case 3:
                     var pushlNotify = NotifierFactory.CreaNotifica(TipoNotifica.Push);
+                    Console.WriteLine($"Hai scelto: {pushlNotify.ToString()}");
                     pushlNotify.Notify($"Benvenuto Fabio, il sistema è attivo!");
                     pushlNotify.Log();
                     Console.ReadKey();
