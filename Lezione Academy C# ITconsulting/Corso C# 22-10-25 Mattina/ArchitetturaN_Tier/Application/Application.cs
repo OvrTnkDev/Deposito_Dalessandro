@@ -18,7 +18,7 @@ namespace Application
 
         public IEnumerable<Order> List() => _ords.List();
         public void Notify() => Console.WriteLine($"Hai creato un nuovo ordine!");
-        public void Time () => Console.WriteLine($"Creato alle ore: {DateTime.Now.Hour}");
+        public void Time() => Console.WriteLine($"Creato alle ore: {DateTime.Now.Hour}");
         public Order CreateOrder(string name, string email)
         {
             var odr = new Order(_custom);
@@ -30,7 +30,7 @@ namespace Application
 
     }
 
-        public class ProdService
+    public class ProdService
     {
         private readonly IProductRepo _prods;
         public ProdService(IProductRepo prods) => _prods = prods;

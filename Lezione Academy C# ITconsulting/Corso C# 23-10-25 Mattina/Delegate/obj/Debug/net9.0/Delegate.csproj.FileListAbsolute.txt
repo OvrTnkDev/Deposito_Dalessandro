@@ -1,0 +1,15 @@
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/bin/Debug/net9.0/Delegate
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/bin/Debug/net9.0/Delegate.deps.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/bin/Debug/net9.0/Delegate.runtimeconfig.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/bin/Debug/net9.0/Delegate.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/bin/Debug/net9.0/Delegate.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/obj/Debug/net9.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/obj/Debug/net9.0/Delegate.AssemblyInfoInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/obj/Debug/net9.0/Delegate.AssemblyInfo.cs
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/obj/Debug/net9.0/Delegate.csproj.CoreCompileInputs.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/obj/Debug/net9.0/Delegate.sourcelink.json
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/obj/Debug/net9.0/Delegate.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/obj/Debug/net9.0/refint/Delegate.dll
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/obj/Debug/net9.0/Delegate.pdb
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/obj/Debug/net9.0/Delegate.genruntimeconfig.cache
+/home/ovrtnkdev/Documenti/GitHub/Deposito_Dalessandro/Lezione Academy C# ITconsulting/Corso C# 23-10-25 Mattina/Delegate/obj/Debug/net9.0/ref/Delegate.dll
