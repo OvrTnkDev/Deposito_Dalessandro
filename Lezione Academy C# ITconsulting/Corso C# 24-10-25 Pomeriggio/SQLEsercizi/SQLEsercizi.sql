@@ -46,32 +46,32 @@ VALUES
     ORDER BY Continent ASC;*/
     
     -- ESERCIZIO DI GRUPPO
-    -- CREAZIONE DB
-	CREATE DATABASE IF NOT EXISTS Libreria;
-	USE Libreria;
-    
-    -- CREAZIONE TABELLA
-	CREATE TABLE IF NOT EXISTS Libri (
-		ID INT AUTO_INCREMENT PRIMARY KEY,
-		Nome VARCHAR(100) NOT NULL,
-		Autore VARCHAR(100) NOT NULL,
-        Genere VARCHAR (50) NOT NULL,
-        Prezzo DECIMAL (5,2),
-		AnnoPubblicazione YEAR
-	);
-    
-    -- INSERIMENTO DATI
-	INSERT INTO Libri (Nome, Autore, Genere, Prezzo, AnnoPubblicazione) VALUES
-	('Il nome della rosa', 'Umberto Eco', 'Giallo storico', 14.90, 1980),
-	('1984', 'George Orwell', 'Distopico', 12.50, 1949),
-	('Cent’anni di solitudine', 'Gabriel García Márquez', 'Realismo magico', 16.00, 1967),
-	('Orgoglio e pregiudizio', 'Jane Austen', 'Romanzo', 10.90, 1813),
-	('Il signore degli anelli', 'J.R.R. Tolkien', 'Fantasy', 24.99, 1954),
-	('La coscienza di Zeno', 'Italo Svevo', 'Letteratura italiana', 11.50, 1923),
-	('Harry Potter e la pietra filosofale', 'J.K. Rowling', 'Fantasy', 18.00, 1997),
-	('Il codice Da Vinci', 'Dan Brown', 'Thriller', 13.90, 2003),
-	('Sapiens: Da animali a dèi', 'Yuval Noah Harari', 'Saggio', 19.50, 2011),
-	('La strada', 'Cormac McCarthy', 'Post-apocalittico', 9.99, 2006);
+-- CREAZIONE DATABASE
+CREATE DATABASE IF NOT EXISTS Libreria;
+USE Libreria;
+
+-- CREAZIONE TABELLA
+CREATE TABLE IF NOT EXISTS Libri (
+	ID INT AUTO_INCREMENT PRIMARY KEY,
+	Nome VARCHAR(100) NOT NULL,
+	Autore VARCHAR(100) NOT NULL,
+	Genere VARCHAR(50) NOT NULL,
+	Prezzo DECIMAL(5,2),
+	AnnoPubblicazione YEAR
+);
+
+-- INSERIMENTO DATI CORRETTO
+INSERT INTO Libri (Nome, Autore, Genere, Prezzo, AnnoPubblicazione) VALUES
+('Sapiens Da animali a dei', 'Yuval Noah Harari', 'Saggio', 19.50, 2011),
+('La strada', 'Cormac McCarthy', 'Post-apocalittico', 9.99, 2006),
+('Il codice Da Vinci', 'Dan Brown', 'Thriller', 13.90, 2003),
+('Harry Potter e la camera dei segreti', 'J.K. Rowling', 'Fantasy', 17.50, 2009),
+('Il canto delluniverso', 'Stephen Hawking', 'Saggio', 15.99, 2010),
+('La verita sul caso Harry Quebert', 'Joël Dicker', 'Thriller', 18.00, 2013),
+('Il trono di spade', 'George R.R. Martin', 'Fantasy', 22.50, 2011),
+('La ragazza del treno', 'Paula Hawkins', 'Thriller', 14.99, 2015),
+('Hunger Games', 'Suzanne Collins', 'Distopico', 16.50, 2008),
+('Ready Player One', 'Ernest Cline', 'Fantascienza', 18.50, 2018);
     
     -- CREAZIONE 1 QUERY
     SELECT Genere, count(Nome) "Conteggio Libro", avg(Prezzo) "Prezzo Medio"
@@ -82,5 +82,7 @@ VALUES
     -- CREAZIONE 2 QUERY
     SELECT * FROM Libreria.Libri
     WHERE AnnoPubblicazione > 2010
-    ORDER BY Anno DESC, Prezzo
+    ORDER BY AnnoPubblicazione DESC, Prezzo;
+    
+    select * from Libreria.Libri;
     
