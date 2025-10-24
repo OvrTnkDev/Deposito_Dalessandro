@@ -74,15 +74,20 @@ INSERT INTO Libri (Nome, Autore, Genere, Prezzo, AnnoPubblicazione) VALUES
 ('Ready Player One', 'Ernest Cline', 'Fantascienza', 18.50, 2018);
     
     -- CREAZIONE 1 QUERY
-    SELECT Genere, count(Nome) "Conteggio Libro", avg(Prezzo) "Prezzo Medio"
-    FROM Libreria.Libri
-    GROUP BY Genere
-    ORDER BY Genere;
+SELECT 
+    Genere, 
+    COUNT(Nome) AS Conteggio_Libri, 
+    AVG(Prezzo) AS Prezzo_Medio
+FROM Libri
+GROUP BY Genere
+ORDER BY Genere;
     
     -- CREAZIONE 2 QUERY
-    SELECT * FROM Libreria.Libri
-    WHERE AnnoPubblicazione > 2010
-    ORDER BY AnnoPubblicazione DESC, Prezzo;
+SELECT *
+FROM Libri
+WHERE AnnoPubblicazione > 2010
+ORDER BY AnnoPubblicazione DESC, Prezzo DESC;
+
     
     select * from Libreria.Libri;
     
