@@ -45,7 +45,7 @@ VALUES
     WHERE Continent = "Antarctica"
     ORDER BY Continent ASC;*/
     
-    -- ESERCIZIO DI GRUPPO
+/*-- ESERCIZIO DI GRUPPO
 -- CREAZIONE DATABASE
 CREATE DATABASE IF NOT EXISTS Libreria;
 USE Libreria;
@@ -89,5 +89,81 @@ WHERE AnnoPubblicazione > 2010
 ORDER BY AnnoPubblicazione DESC, Prezzo DESC;
 
     
-    select * from Libreria.Libri;
+    select * from Libreria.Libri LIMIT 2;*/
     
+-- ESERCIZIO GRUPPO 2
+-- CREAZIONE DATABASE
+CREATE DATABASE IF NOT EXISTS Magazzino;
+USE Magazzino;
+
+-- CREAZIONE TABELLA
+CREATE TABLE IF NOT EXISTS Vendite (
+	ID INT AUTO_INCREMENT PRIMARY KEY,
+	Prodotto VARCHAR(100) NOT NULL,
+	Categoria VARCHAR(100) NOT NULL,
+	Quantita INT NOT NULL,
+	PrezzoUnitario DECIMAL(5,2),
+	DataVendita DATE
+);
+
+-- INSERIMENTO DATI MOCK
+INSERT INTO Vendite (Prodotto, Categoria, Quantita, PrezzoUnitario, DataVendita) VALUES
+('Laptop Lenovo ThinkPad', 'Elettronica', 5, 899.99, '2023-01-15'),
+('Mouse Logitech M330', 'Elettronica', 20, 19.50, '2023-01-16'),
+('Notebook A4', 'Cancelleria', 50, 2.30, '2023-01-17'),
+('Penna a sfera Bic', 'Cancelleria', 100, 0.50, '2023-01-18'),
+('Tavolo da ufficio', 'Arredamento', 3, 120.00, '2023-02-05'),
+('Sedia ergonomica', 'Arredamento', 4, 180.00, '2023-02-06'),
+('Smartphone Samsung Galaxy', 'Elettronica', 8, 699.00, '2023-03-10'),
+('Cuffie Bluetooth Sony', 'Elettronica', 10, 89.99, '2023-03-12'),
+('Cartellina A4', 'Cancelleria', 30, 1.20, '2023-04-01'),
+('Lampada da scrivania', 'Arredamento', 6, 45.50, '2023-04-03'),
+('Zaino scuola', 'Accessori', 15, 35.00, '2023-05-10'),
+('Calcolatrice scientifica', 'Cancelleria', 12, 25.00, '2023-05-15'),
+('Monitor 24 pollici', 'Elettronica', 7, 199.99, '2023-06-01'),
+('Tastiera meccanica', 'Elettronica', 9, 79.50, '2023-06-05'),
+('Agenda 2023', 'Cancelleria', 40, 5.00, '2023-06-10');
+
+-- PROVA
+SELECT * FROM Vendite;
+
+-- TOTALE VENDITA PER CATEGORIA
+SELECT Categoria, sum(PrezzoUnitario * Quantita) TotaleVendita
+FROM Vendite
+GROUP BY Categoria
+ORDER BY Categoria;
+
+-- PREZZO MEDIO PRODOTTI VENDUTI
+SELECT Categoria, avg(PrezzoUnitario * Quantita) PrezzoMedioV, sum(PrezzoUnitario * Quantita) Totalevenduto
+FROM Vendite
+GROUP BY Categoria
+ORDER BY Categoria;
+
+-- NUMERO TOTALE VENDITE
+SELECT Categoria, sum(Quantita) PezziVenduti
+FROM Vendite
+GROUP BY Categoria
+ORDER BY Categoria;
+
+-- PREZZO MASSIMO E MINNIMO
+SELECT Prodotto, Categoria, min(PrezzoUnitario) PrezzoMin, max(PrezzoUnitario) PrezzoMax
+FROM Vendite
+GROUP BY Prodotto, Categoria
+ORDER BY Categoria;
+
+-- CONTEGGIO VENDITE
+SELECT count(*) ConteggioVendite
+FROM Vendite;
+
+-- I 5 PRODOTTI PIU' COSTOSI
+SELECT Prodotto, Categoria, PrezzoUnitario
+FROM Vendite
+ORDER BY PrezzoUnitario ASC
+LIMIT 5;
+
+-- I 3 PRODOTTI MENO VENDUTI
+SELECT Prodotto, Categoria, sum(Quantita) SommaQuantita
+FROM Vendite
+GROUP BY Prodotto, Categoria
+ORDER BY sum(Quantita) ASC
+LIMIT 3;
