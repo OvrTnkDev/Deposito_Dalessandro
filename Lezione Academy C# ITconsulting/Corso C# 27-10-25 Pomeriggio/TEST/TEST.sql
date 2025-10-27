@@ -50,7 +50,9 @@ INSERT INTO LibreriaTest.Libri (titolo, autore, genere, anno_pubblicazione, prez
 ('Doctor sss', 'Stephen 24', 'Horror', 2018, 24.00),
 ('Animali Fantastici', 'J.K. FF', 'Fantasy', 2012, 25.00);
 
+-- =======================================================
 -- TEST LIBRI
+-- =======================================================
 SELECT * FROM LibreriaTest.Libri;
 
 -- =======================================================
@@ -76,30 +78,40 @@ INSERT INTO LibreriaTest.Vendite (id_libro, data_vendita, quantita, negozio) VAL
 (10, '2025-06-18', 1, 'Cartoleria Roma'),
 (9, '2024-02-28', 3, 'Libreria Centrale');
 
+-- =======================================================
 -- TEST VENDITE
+-- =======================================================
 SELECT * FROM LibreriaTest.Vendite;
 -- DROP TABLE LibreriaTest.Vendite;
 
+-- =======================================================
 -- 1. LIBRI VENDUTI IN 1 NEGOZIO
+-- =======================================================
 SELECT l.titolo, l.autore, v.data_vendita, v.negozio
 FROM LibreriaTest.Vendite AS v
 INNER JOIN LibreriaTest.Libri AS l ON l.id = v.id_libro
 WHERE lower(autore) LIKE '%king%';
 
+-- =======================================================
 -- 2. LIBRI CON BETWEEN
+-- =======================================================
 SELECT l.titolo, l.anno_pubblicazione, l.prezzo, v.data_vendita
 FROM LibreriaTest.Vendite AS v
 LEFT JOIN LibreriaTest.Libri AS l ON l.id = v.id_libro
 WHERE l.anno_pubblicazione BETWEEN 2000 AND 2010;
 
+-- =======================================================
 -- 3. DATI LIBRI VENDUTI LISTA SPECIFICA
+-- =======================================================
 SELECT l.titolo, v.negozio, sum(v.quantita) AS Quantita_tot, sum(v.prezzo*v.quantita) AS Valore_tot
 FROM LibreriaTest.Vendite AS v
 INNER JOIN LibreriaTest.Libri AS l ON l.id = v.id_libro
 WHERE v.negozio IN ('Cartoleria Roma', 'Libreria Centrale', 'BookCity Milano')
 GROUP BY l.titolo, v.negozio;
 
+-- =======================================================
 -- 4. TUTTI RECORD + ANOMALIA SE PRESENTE
+-- =======================================================
 SELECT l.titolo, v.data_vendita, l.prezzo, v.quantita
 FROM LibreriaTest.Vendite AS v
 RIGHT JOIN LibreriaTest.Libri AS l ON l.id = v.id_libro
@@ -107,7 +119,9 @@ WHERE substr(v.data_vendita, 1, 4) BETWEEN 2020 AND 2022
 AND v.negozio LIKE '%Book%'
 ORDER BY v.data_vendita DESC;
 
+-- =======================================================
 -- 5 INNER + WHERE
+-- =======================================================
 SELECT l.titolo, l.autore, l.prezzo, v.data_vendita
 FROM LibreriaTest.Vendite AS v
 RIGHT JOIN LibreriaTest.Libri AS l ON l.id = v.id_libro
