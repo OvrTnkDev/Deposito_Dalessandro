@@ -1,0 +1,60 @@
+2. Le architetture Software sono le fondamenta che permettono la creazione di un software.
+Sono delle strutture logiche che hanno al loro interno 3 caratteristiche, che sono:
+1. la logica, che contiene il flusso delle operazioni e gli algoritmi
+2. I dati, quindi tutta la gestione ad esempio di un CRUD
+3. L'interfaccia grafica (UI), che sarebbe la parte visibile che interagisce con l'utente.
+
+4. Monolitica -> Tutto il codice è contenuto in un solo blocco, è una tra le più vecchie architetture.
+Client-Server -> Divide la logica dai servizi, quindi il client chiede e il server risponde(esegue e fornisce).
+N-tier -> Per eccellenza la più vecchia, organizza il software in livelli(layer) distinti(dati, logica, presentazione), e la separazione è chiara tra interfaccia, logica e dati.
+SOA -> Il servizio è suddiviso in servizi separati e autonomi, ma con un client monolitico.
+Microservizi -> Il servizio è suddiviso in servizi separati e autonomi, ma a differenza della SOA, il client è suddiviso anch'esso in microservizi che comunica tra di loro tramite un middleware(tipo RestAPI).
+EDA -> Non è un architettura assestante ma implementabile ad altre, e i componenti reagiscono a notifiche o eventi.
+Layered -> è simile alla N-tier ma non è 'libera' come la medesima. Perchè è possibile interagire solo con il livello subito prima o subito dopo, quindi ogni strato ha un unico livello o direzione di comunicazione.
+Hexagonal -> Isola il core da db, API o interfacce, cosi da rendere quel codice creato testabile e indipendente. Extra: - Domanda intelligente da porsi: Quali strumenti andrò ad utilizzare in futuro?(e fottersene) -
+
+6. La Dependecy Injection è un Pattern di progettazione software, e serve ad iniettare dipendenze dall'esterno.
+
+Single Responsibility Principle -> ogni classe deve avere una sola responsabilità.
+Open/Closed Principle -> le classi devono essere aperte all'estensione ma chiuse alle modifiche.
+Liskov Substitution Principle -> Le classi derivate devono poter sostituire le base senza rompere la logica.
+Interface Segregation Principle -> Meglio avere più interfacce anzichè una grossa, così da permettere l'implentazione delle classi derivanti solo di cio che serve.
+Dependency Inversion Principle -> La base è poter iniettare nelle dipendenze ciò che ci serve nel momento necessario.
+
+8. Un delegate è un tipo che rappresenta riferimenti a metodi con una determinata firma.
+Esiste quello con parametri, dove possiamo passare per l'appunto tramite parametro ai metodi.
+Il multicast che può contenere più metodi.
+Poi ci sono Action e Func, e con questi anzichè crearne di nuovi posso essere riutilizzabili.
+Action è un void, quindi non restituisce valore, mentre Func restituisce un valore.
+
+9. SQL è un linguaggio di interrogazione, e tramite le cosi dette QUERY andiamo ad estrarre dal DB quello che ci serve.
+Quindi serve a gestire e interrogare database relazionali.
+Il CRUD c'entra perchè è la genesi dei comandi principali, ovvero:
+CREATE, SELECT, UPDATE, DELETE.
+
+11. IL DB relazionale è un database che organizza i dati in tabelle collegate tra loro tramite chiavi primarie.
+L'RDBMS invece, è il software che gestisce un DB relazionale.
+
+La differenza sostanziale è che il DB relazionale è la struttura dei dati, mentre l’RDBMS è lo strumento che li crea, gestisce e interroga.
+
+13. CREATE -> creazione di un DB o una tabella
+SELECT -> Selezione di campi(o colonne) all'interno di una tabella
+DISTINCT -> restituzione di record univoci, senza duplicati
+INSERT INTO -> Permette di inserire dati all'interno di una tabella
+USE -> permette di inizializzare l'uso di un db specifico
+FROM -> indica dove prendere il dato, da quale tabella e db
+WHERE -> permette di filtrare i dati
+ORDER BY -> permette di ordinare le colonne in ordine crescente o decrescente
+GROUP BY -> permette di raggruppare dati dopo una determinata evocazione di una funzione (es: sum, avg, count)
+IF EXIST -> Controlla se durante la creazione di un db o una table esiste gia o meno
+DROP -> Permette di eliminare un db o una table
+DELETE -> cancella i dati all'interno di un db o una tabella, differenzia dal drop.
+
+15. Un Join è un aggregazione di 2 o più tabelle in base ad una correlazione, che avviene tramite campi chiave uguali.
+Ne esistono 4 e sono:
+RIGHT JOIN -> restituisce tutti i record della tabella di destra e record con dei valori collettivi, comunitari (se non trova corrispondenza viene inserito NULL automaticamente).
+INNER JOIN -> restituisce solo i record con dei valori collettivi, comunitari.
+LEFT JOIN -> restituisce tutti i record della tabella di sinistra e record con dei valori collettivi, comunitari (se non trova corrispondenza viene inserito NULL automaticamente).
+FULL JOIN -> restituisce tutti i record di entrambe le tabelle, mettendo NULL dove non esiste corrispondenza.
+
+18. https://imgflip.com/i/aab21j
