@@ -96,3 +96,33 @@ WHERE Citta LIKE 'roma';
 -- CLIENTI CHE VIVONO A ROMA
 SELECT * FROM AziendaClienti.Clienti
 WHERE lower(Citta) LIKE '%roma%';
+
+-- ------------JOIN----------------- --
+-- INNER JOIN
+SELECT 
+    a.Name AS Citta,
+    b.nome AS Cliente,
+    b.cognome AS Cognome
+FROM world.city a
+INNER JOIN AziendaClienti.Clienti b 
+    ON a.Name = b.citta;
+
+
+-- LEFT JOIN
+SELECT 
+    a.Name AS Citta,
+    b.nome AS Cliente,
+    b.cognome AS Cognome
+FROM world.city a
+LEFT JOIN AziendaClienti.Clienti b 
+    ON a.Name = b.citta;
+
+
+-- RIGHT JOIN
+SELECT 
+    a.Name AS Citta,
+    b.nome AS Cliente,
+    b.cognome AS Cognome
+FROM world.city a
+RIGHT JOIN AziendaClienti.Clienti b 
+    ON a.Name = b.citta;
